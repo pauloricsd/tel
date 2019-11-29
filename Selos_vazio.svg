@@ -6,15 +6,19 @@
       }
 
       .cls-2 {
+        fill: #d8d8d8;
+      }
+
+      .cls-3 {
         fill: none;
         stroke: #fff;
         stroke-width: 10.09px;
       }
     </style>
   </defs>
-  <title>Selos</title>
+  <title>Selos_vazio_Habilitado-sml cópia</title>
   <g id="Elipse_782" data-name="Elipse 782" class="cls-1">
-    <circle cx="51.26" cy="51.63" r="50.43"/>
-    <circle class="cls-2" cx="51.26" cy="51.63" r="45.39"/>
+    <circle class="cls-2" cx="51.26" cy="51.63" r="50.43"/>
+    <circle class="cls-3" cx="51.26" cy="51.63" r="45.39"/>
   </g>
 </svg>
