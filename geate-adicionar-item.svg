@@ -1,0 +1,13 @@
+<svg id="Excluir_item_subnivel" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="7.557" height="7.557" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Símbolo">
+    <circle id="Elipse_110" data-name="Elipse 110" cx="11" cy="11" r="11" fill="#ccd1db"/>
+  </g>
+  <g id="Símbolo_85_2" data-name="Símbolo 85 – 2" transform="translate(10.778 5.434) rotate(45)" clip-path="url(#clip-path)">
+    <path id="União_3" data-name="União 3" d="M3.778,4.465.687,7.557,0,6.869,3.091,3.778,0,.687.687,0,3.778,3.091,6.869,0l.687.687L4.465,3.778,7.557,6.869l-.687.687Z" fill="#fff"/>
+  </g>
+</svg>

@@ -1,8 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="5.664" height="4.498" viewBox="0 0 5.664 4.498">
-  <g id="Grupo_1783" data-name="Grupo 1783" transform="translate(-3937 5813)">
-    <g id="Grupo_1781" data-name="Grupo 1781" transform="translate(4 10)">
-      <rect id="Retângulo_1944" data-name="Retângulo 1944" width="4" height="3" transform="translate(3933 -5823)" fill="#bdbbc8"/>
-      <path id="Caminho_879" data-name="Caminho 879" d="M3935.523-5819h2.641v-2.535" fill="none" stroke="#bdbbc8" stroke-width="1"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="7.313" viewBox="0 0 9 7.313">
+  <path id="icon_chat-room" d="M7.313,7.313h-4.5L3.841,6.188H7.313a.563.563,0,0,0,.563-.562V2.25h.563A.563.563,0,0,1,9,2.813V6.75a.563.563,0,0,1-.562.563ZM3.375,5.063H.563A.563.563,0,0,1,0,4.5V.563A.563.563,0,0,1,.563,0H6.188A.563.563,0,0,1,6.75.563V4.5a.563.563,0,0,1-.562.563Z" fill="#bcbccb"/>
 </svg>
