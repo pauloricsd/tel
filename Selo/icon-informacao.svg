@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Grupo_1103" data-name="Grupo 1103" transform="translate(-1265 -134)">
+    <g id="Grupo_1102" data-name="Grupo 1102" transform="translate(17)">
+      <g id="Elipse_787" data-name="Elipse 787" transform="translate(1248 134)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="11" cy="11" r="11" stroke="none"/>
+        <circle cx="11" cy="11" r="10.5" fill="none"/>
+      </g>
+      <text id="_" data-name="!" transform="translate(1259 151)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-2.273" y="0">!</tspan></text>
+    </g>
+  </g>
+</svg>
