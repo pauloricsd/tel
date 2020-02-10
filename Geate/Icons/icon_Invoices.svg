@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80.045" height="93.52" viewBox="0 0 80.045 93.52">
-  <g id="icon_Invoices" transform="translate(3.5 3.5)">
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="103" viewBox="0 0 103 103">
+  <g id="icon_Invoices" transform="translate(15.177 8.693)">
     <path id="Caminho_102" data-name="Caminho 102" d="M68.828,0H6.218A4.929,4.929,0,0,0,1,5.218V83.48L16.653,73.045,27.088,83.48,37.523,73.045,47.958,83.48,58.393,73.045,74.045,83.48V5.218A4.929,4.929,0,0,0,68.828,0ZM58.393,52.175H16.653V41.74h41.74Zm0-20.87H16.653V20.87h41.74Z" transform="translate(-1)" fill="none" stroke="#f5822b" stroke-width="7"/>
+    <rect id="Retângulo_1974" data-name="Retângulo 1974" width="103" height="103" transform="translate(-15.177 -8.693)" fill="none"/>
   </g>
 </svg>
