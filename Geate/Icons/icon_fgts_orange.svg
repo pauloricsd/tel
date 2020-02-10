@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="93.368" height="90.448" viewBox="0 0 93.368 90.448">
-  <g id="icon_fgts_orange" transform="translate(-103.909 -287.149)">
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="103" viewBox="0 0 103 103">
+  <g id="icon_fgts_orange" transform="translate(-99.409 -280.649)">
     <path id="União_29" data-name="União 29" d="M-4748.592,294.1V210.649h86.368c0,7.466-4.874,13.518-10.885,13.518H-4734.7V284.21a9.888,9.888,0,0,1-9.888,9.888Z" transform="translate(4856 80)" fill="none" stroke="#f5822b" stroke-miterlimit="10" stroke-width="7"/>
     <path id="Caminho_902" data-name="Caminho 902" d="M154.766,312.19A25.813,25.813,0,0,0,137.616,357.3l36.443-36.442A25.753,25.753,0,0,0,154.766,312.19Z" transform="translate(2.983 1.983)" fill="none" stroke="#f5822b" stroke-width="7"/>
+    <rect id="Retângulo_1958" data-name="Retângulo 1958" width="103" height="103" transform="translate(99.409 280.649)" fill="none"/>
   </g>
 </svg>

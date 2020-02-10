@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="98.971" height="99.106" viewBox="0 0 98.971 99.106">
-  <g id="icon_star" transform="translate(5.07 5)">
-    <path id="Caminho_362" data-name="Caminho 362" d="M87.256,38.427a5.244,5.244,0,0,0-2.586-8.868L60.283,25.864h0L49.937,3.325c-2.217-4.434-7.759-4.434-9.976,0L28.876,25.864h0L4.12,29.559a5.244,5.244,0,0,0-2.586,8.868L19.27,56.9v.369L15.205,82.027c-.739,4.8,4.064,8.5,8.129,6.281L44.026,76.485H44.4L65.087,87.939c4.064,2.217,8.868-1.478,8.129-6.281L69.151,56.9v-.369Z" transform="translate(0.021 0)" fill="none" stroke="#f5822b" stroke-width="10"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="103" viewBox="0 0 103 103">
+  <g id="icon_star" transform="translate(7.39 6)">
+    <path id="Caminho_362" data-name="Caminho 362" d="M87.256,38.427a5.244,5.244,0,0,0-2.586-8.868L60.283,25.864h0L49.937,3.325c-2.217-4.434-7.759-4.434-9.976,0L28.876,25.864h0L4.12,29.559a5.244,5.244,0,0,0-2.586,8.868L19.27,56.9v.369L15.205,82.027c-.739,4.8,4.064,8.5,8.129,6.281L44.026,76.485H44.4L65.087,87.939c4.064,2.217,8.868-1.478,8.129-6.281L69.151,56.9v-.369Z" transform="translate(0.021 0)" fill="none" stroke="#f5822b" stroke-width="8"/>
+    <rect id="Retângulo_1967" data-name="Retângulo 1967" width="103" height="103" transform="translate(-7.39 -6)" fill="none"/>
   </g>
 </svg>
